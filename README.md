@@ -1,3 +1,8 @@
-# blogsite-v1
-first try at making a personal website<br>
-adding an edit to the read me because recommended
+<b>My Website</b>
+<br>
+<ol>
+  <l1>blog</li>
+  <li>photos</li>
+  <li>lifestyle??</li>
+  <li>contact</li>
+ </ol>
